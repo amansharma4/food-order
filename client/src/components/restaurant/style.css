@@ -1,0 +1,9 @@
+.card-content{
+    color: black;
+    font-weight: bold;
+
+}
+.card-action{
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+}
